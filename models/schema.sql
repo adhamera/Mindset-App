@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS mindset;
+CREATE DATABASE mindset;
+
+DROP DATABASE IF EXISTS test_mindset;
+CREATE DATABASE test_mindset;

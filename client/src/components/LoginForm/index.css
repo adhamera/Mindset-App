@@ -1,0 +1,30 @@
+.gradient-bg{
+    background: #0a928e;
+    background: linear-gradient(180deg, rgba(142, 233, 231, 0.9990371148459384) 0%, rgba(10, 146, 142, 1) 100%);
+}
+
+.jumbotron {
+    background: #0a928e;
+    background: linear-gradient(180deg, rgb(3, 131, 127) 3%, rgba(84, 214, 210, 1) 60%);
+}
+
+.no-border {
+    border: none;
+}
+
+.container-fluid {
+    text-align: center;
+}
+
+.logbtn {
+    display: block;
+    width: 100%;
+    height: 50px;
+    border: none;
+    background-color: #0a928e;
+    background-size: 200%;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    transition: .5s;
+}
