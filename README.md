@@ -65,4 +65,4 @@ Once you run the app you can create new student users by following the sign-up l
 
 
 ## Questions
-Any further questions about this project can be emailed directly to <jlcalderonfuentes@gmail.com>, <jamesjorissen@gmail.com>, . Feel free to reach out and follow me on [Github](https://github.com/jlcalderon)
+Any further questions about this project can be emailed directly to <adhamera@gmail.com>. Feel free to reach out and follow me on [Github](https://github.com/adhamera)
